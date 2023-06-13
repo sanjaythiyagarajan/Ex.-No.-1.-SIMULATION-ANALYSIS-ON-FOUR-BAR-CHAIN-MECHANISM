@@ -1,6 +1,6 @@
 # Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 13-06-2023
 
 ## AIM:
 
@@ -11,6 +11,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
 
 ## REQUIREMENTS:
+
 ###  ●	Mech Analyzer software.
 ###  ●	Processor: Minimum 1.5 GHz
 ###  ●	RAM: Minimum 512 MB
@@ -20,6 +21,7 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
+
 ###   1. Draw a horizontal line AD of length 120 mm. 
 ###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
 ###   3. With B as centre, BC = AD = 120mm draw an arc 
@@ -45,18 +47,18 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 
 ## Output:
 
+![Screenshot 2023-06-13 180202](https://github.com/Praveen0500/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120218611/cb096986-1393-4e94-ba64-c58b0127ac43)
 
-### Name:
-### Register Number: 
+![Screenshot 2023-06-13 181556](https://github.com/Praveen0500/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/120218611/6239c882-85bf-47d2-a3ab-a4f524988940)
+
+### Name: SANJAY T
+
+### Register Number: 212222110039
 
 ## RESULT:
+
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
